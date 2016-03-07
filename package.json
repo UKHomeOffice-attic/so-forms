@@ -1,0 +1,19 @@
+{
+  "name": "so-forms",
+  "version": "0.0.4",
+  "description": "UKHO Service Optimisation form technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UKHomeOffice/so-forms.git"
+  },
+  "author": "Joe Flintham",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/UKHomeOffice/so-forms/issues"
+  },
+  "homepage": "https://github.com/UKHomeOffice/so-forms#readme"
+}
