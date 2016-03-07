@@ -1,6 +1,6 @@
 {
   "name": "so-forms",
-  "version": "0.1.0",
+  "version": "0.0.5",
   "description": "UKHO Service Optimisation form technology",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/UKHomeOffice/so-forms/issues"
   },
-  "homepage": "https://github.com/UKHomeOffice/so-forms#readme"
+  "homepage": "https://github.com/UKHomeOffice/so-forms#readme",
+  "dependencies": {
+    "hmpo-form-wizard": "^4.1.0"
+  }
 }
