@@ -15,5 +15,7 @@ var controllers = {
 
 module.exports = {
   controllers: controllers,
-  template: require('hmpo-govuk-template')
+  template: require('hmpo-govuk-template'),
+  wizard: require('hmpo-form-wizard'),
+  mixins: require('hmpo-template-mixins')  
 };
