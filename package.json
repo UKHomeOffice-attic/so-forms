@@ -18,6 +18,7 @@
   "homepage": "https://github.com/UKHomeOffice/so-forms#readme",
   "dependencies": {
     "hmpo-form-wizard": "^4.3.0",
+    "hmpo-frontend-toolkit": "^3.0.1",
     "hmpo-govuk-template": "0.0.3",
     "hmpo-template-mixins": "^4.0.0",
     "moment": "^2.12.0",
