@@ -15,5 +15,5 @@ var controllers = {
 
 module.exports = {
   controllers: controllers,
-  tenplate: require('hmpo-govuk-template')
+  template: require('hmpo-govuk-template')
 };
