@@ -1,6 +1,6 @@
 {
   "name": "so-forms",
-  "version": "0.0.15",
+  "version": "1.0.0",
   "description": "UKHO Service Optimisation form technology",
   "main": "index.js",
   "scripts": {
